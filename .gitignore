@@ -1,0 +1,13 @@
+hide.md
+
+__pycache__/
+*.pyc
+
+.venv/
+venv/
+
+.vscode/
+
+.dist/
+dist/
+build/
